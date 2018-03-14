@@ -27,3 +27,4 @@ ScalableText.defaultProps = {
 };
 
 export default ScalableText;
+export { scale, verticalScale, moderateScale } from './Scale'
